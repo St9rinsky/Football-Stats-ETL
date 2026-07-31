@@ -7,7 +7,7 @@ Building an ETL pipeline with Football API
 ## Iteration 1 (MVP)
 
 - [ ] Setup the repo, docs and requirements
-- [ ] Setup and connect to the PostgreSQL database
+- [ ] connect to the PostgreSQL database
 - [ ] Connect to the football API
 - [ ] Extract and save raw JSON data to bronze layer
 - [ ] Transform data and save data to silver layer
