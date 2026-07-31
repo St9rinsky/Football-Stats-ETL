@@ -2,10 +2,11 @@
 
 ## Day 1
 
-Completed
+Completed  
 ✅ Setting up the repo and docs, and the requirements on the IDE
 
 Tomorrow
+📋 Connecting to the PostgreSQl databse
 
 Problem
 - When setting up the environment i faced an issue with overall structure of the
